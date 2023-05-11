@@ -1,0 +1,9 @@
+{
+  "login": {
+    "bearer":"1234523446-2345464356sdghdf"
+  },
+  "static": {
+    "min_value": 12.5,
+    "max_qty": 6
+  }
+}
